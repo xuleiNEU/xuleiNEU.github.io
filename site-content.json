@@ -10,26 +10,26 @@
     "introZh": "我的研究聚焦网络化系统中的分布式优化与学习，重点关注通信高效算法、零阶优化方法、随机优化及严格的收敛性分析。",
     "aboutEn": "I am a Postdoctoral Researcher in Decision and Control Systems at KTH Royal Institute of Technology, working with Prof. Karl H. Johansson. I received my Ph.D. from the University of Victoria in 2025 under the supervision of Prof. Yang Shi.",
     "aboutZh": "我目前在瑞典皇家理工学院（KTH）决策与控制系统部门从事博士后研究，与 Karl H. Johansson 教授合作。我于 2025 年获得加拿大维多利亚大学博士学位，博士导师为 Yang Shi（施阳）教授。",
-    "photo": ""
+    "photo": "assets/lei_xu_portrait.jpg"
   },
   "metrics": {
-    "sci": 20,
-    "tac": 7,
-    "automatica": 3,
+    "sci": 18,
+    "tac": null,
+    "automatica": null,
     "provisional": false,
-    "noteEn": "Publication totals include both published and accepted journal papers.",
-    "noteZh": "论文统计包含已正式发表和已录用的期刊论文。"
+    "noteEn": "As reported in the June 2026 research application. Published and accepted papers after that date are not included in this historical snapshot.",
+    "noteZh": "依据 2026 年 6 月申请书中的统计；该历史统计不含此后新增录用或发表的论文。"
   },
   "lineage": {
     "links": 18,
-    "descriptionEn": "The original academic genealogy chart traces a mentorship lineage from Isaac Newton to Lei Xu through 18 links.",
-    "descriptionZh": "原始学术谱系图展示了从牛顿到徐磊、跨越 18 段学术师承关系的传承脉络。",
-    "image": ""
+    "descriptionEn": "A historical overview of my academic mentorship lineage.",
+    "descriptionZh": "我的学术师承谱系简史。",
+    "image": "assets/academic_genealogy_original.png"
   },
   "papers": [
     {
       "year": "2024",
-      "journal": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL",
+      "journal": "IEEE Transactions on Automatic Control",
       "short": "IEEE TAC",
       "title": "Distributed Nonconvex Optimization With Event-Triggered Communication",
       "desc": "Dynamic event-triggered communication for distributed nonconvex optimization, with convergence guarantees and exclusion of Zeno behavior.",
@@ -37,15 +37,17 @@
       "doi": "https://doi.org/10.1109/TAC.2023.3339439",
       "type": "event",
       "tags": [
+        "communication",
         "distributed"
       ],
       "selected": true,
       "date": "2024-04",
-      "figure": ""
+      "figure": "",
+      "status": "Published"
     },
     {
       "year": "2025",
-      "journal": "AUTOMATICA",
+      "journal": "Automatica",
       "short": "Automatica",
       "title": "Compressed Gradient Tracking Algorithms for Distributed Nonconvex Optimization",
       "desc": "Communication-compressed gradient tracking for distributed nonconvex optimization, covering multiple compressor models.",
@@ -53,15 +55,17 @@
       "doi": "https://doi.org/10.1016/j.automatica.2025.112286",
       "type": "compression",
       "tags": [
+        "communication",
         "distributed"
       ],
       "selected": true,
       "date": "2025-07",
-      "figure": ""
+      "figure": "",
+      "status": "Published"
     },
     {
       "year": "2026",
-      "journal": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL",
+      "journal": "IEEE Transactions on Automatic Control",
       "short": "IEEE TAC",
       "title": "A Zeroth-Order Compressed Push–Pull Algorithm for Distributed Nonconvex Optimization Over Unbalanced Directed Graphs",
       "desc": "Zeroth-order push–pull optimization with compressed communication over unbalanced directed networks.",
@@ -69,16 +73,18 @@
       "doi": "https://doi.org/10.1109/TAC.2026.3750789",
       "type": "zeroth",
       "tags": [
+        "communication",
         "distributed",
         "zeroth"
       ],
       "selected": true,
       "date": "2026-11",
-      "figure": ""
+      "figure": "",
+      "status": "Online Early Access"
     },
     {
       "year": "2025",
-      "journal": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL",
+      "journal": "IEEE Transactions on Automatic Control",
       "short": "IEEE TAC",
       "title": "Quantized Distributed Nonconvex Optimization Algorithms With Linear Convergence Under the Polyak–Łojasiewicz Condition",
       "desc": "Quantized distributed nonconvex optimization with linear convergence under the Polyak–Łojasiewicz condition.",
@@ -86,15 +92,17 @@
       "doi": "https://doi.org/10.1109/TAC.2025.3563431",
       "type": "quantization",
       "tags": [
+        "communication",
         "distributed"
       ],
       "selected": true,
       "date": "2025-10",
-      "figure": ""
+      "figure": "",
+      "status": "Published"
     },
     {
       "year": "2022",
-      "journal": "IEEE TRANSACTIONS ON AUTOMATIC CONTROL",
+      "journal": "IEEE Transactions on Automatic Control",
       "short": "IEEE TAC",
       "title": "Almost Sure Stability and Stabilization of Markovian Jump Systems With Stochastic Switching",
       "desc": "Almost-sure stability and stabilization of Markovian jump systems subject to additional stochastic switching.",
@@ -106,7 +114,8 @@
       ],
       "selected": true,
       "date": "2022-03",
-      "figure": ""
+      "figure": "",
+      "status": "Published"
     }
   ],
   "visitors": {
@@ -116,40 +125,52 @@
   "awards": [
     {
       "year": "2025",
-      "en": "Best Paper Award",
-      "zh": "最佳论文奖"
+      "en": "Knut and Alice Wallenberg Foundation (KAW) Postdoctoral Fellowship",
+      "zh": "Knut and Alice Wallenberg Foundation（KAW）博士后奖学金"
     },
     {
-      "year": "2025–2026",
-      "en": "KAW Postdoctoral Fellowship",
-      "zh": "KAW 博士后奖学金"
+      "year": "2025",
+      "en": "Best Paper Award — AI & Cyber-Physical Systems Special Session, IEEE/CAA Journal of Automatica Sinica",
+      "zh": "最佳论文奖——IEEE/CAA《自动化学报（英文版）》人工智能与信息物理系统专题学术会议"
+    },
+    {
+      "year": "2024",
+      "en": "Albert Hung Chao Hong Scholarships",
+      "zh": "Albert Hung Chao Hong Scholarships（维多利亚大学）"
+    },
+    {
+      "year": "2023",
+      "en": "F5000 Top Academic Paper Selection (Co-author)",
+      "zh": "F5000 中国精品科技期刊顶尖学术论文入选（合作者）"
     },
     {
       "year": "2024–2025",
       "en": "University of Victoria Doctoral Fellowship",
       "zh": "维多利亚大学博士奖学金"
-    },
-    {
-      "year": "2024",
-      "en": "Albert Hung Chao Hong Scholarship",
-      "zh": "Albert Hung Chao Hong 奖学金"
     }
   ],
   "service": [
     {
       "year": "2025",
-      "en": "Associate Editor, IEEE International Conference on Control and Automation (ICCA 2025)",
-      "zh": "副编辑，IEEE 国际控制与自动化会议（ICCA 2025）"
+      "en": "Guest Editorial Board Member — Acta Automatica Sinica | Special Issue: Distributed Cooperative Control, Optimization, and Learning",
+      "zh": "客座编委——《自动化学报》“分布式协同控制、优化与学习”专刊",
+      "url": "https://aas.net.cn/news/gonggao/89a20075-7780-4fb9-ad45-03bcdc774b8f.htm"
     },
     {
       "year": "2025",
-      "en": "Session Chair, CSSC 2025",
-      "zh": "分会主席，CSSC 2025"
+      "en": "Associate Editor — IEEE International Conference on Control and Automation (ICCA 2025)",
+      "zh": "会议编委——2025 IEEE 国际控制与自动化大会（ICCA 2025）"
     },
     {
       "year": "2025",
-      "en": "Session Chair, IAI 2025",
-      "zh": "分会主席，IAI 2025"
+      "en": "Invited Session Chair — China Systems Science Conference (CSSC 2025)",
+      "zh": "邀请组主席——2025 中国系统科学大会（CSSC 2025）"
+    },
+    {
+      "year": "2025",
+      "en": "Invited Session Co-Chair — International Conference on Industrial Artificial Intelligence (IAI 2025)",
+      "zh": "邀请组联合主席——2025 国际工业人工智能会议（IAI 2025）"
     }
-  ]
+  ],
+  "contentVersion": "2026-11-15-v3.9"
 }
