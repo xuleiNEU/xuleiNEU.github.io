@@ -10,15 +10,16 @@
     "introZh": "我的研究聚焦网络化系统中的分布式优化与学习，重点关注通信高效算法、零阶优化方法、随机优化及严格的收敛性分析。",
     "aboutEn": "I am a Postdoctoral Researcher in Decision and Control Systems at KTH Royal Institute of Technology, working with Prof. Karl H. Johansson. I received my Ph.D. from the University of Victoria in 2025 under the supervision of Prof. Yang Shi.",
     "aboutZh": "我目前在瑞典皇家理工学院（KTH）决策与控制系统部门从事博士后研究，与 Karl H. Johansson 教授合作。我于 2025 年获得加拿大维多利亚大学博士学位，博士导师为 Yang Shi（施阳）教授。",
-    "photo": "assets/lei_xu_portrait.jpg"
+    "photo": "assets/lei_xu_portrait.jpg",
+    "scholarUrl": "https://scholar.google.com/citations?user=pbPfUkQAAAAJ"
   },
   "metrics": {
-    "sci": 18,
+    "sci": 20,
     "tac": null,
     "automatica": null,
     "provisional": false,
-    "noteEn": "As reported in the June 2026 research application. Published and accepted papers after that date are not included in this historical snapshot.",
-    "noteZh": "依据 2026 年 6 月申请书中的统计；该历史统计不含此后新增录用或发表的论文。"
+    "noteEn": "Including published and accepted journal articles. Updated November 2026.",
+    "noteZh": "包含已发表和已录用的期刊论文，更新于 2026 年 11 月。"
   },
   "lineage": {
     "links": 18,
@@ -140,8 +141,8 @@
     },
     {
       "year": "2023",
-      "en": "F5000 Top Academic Paper Selection (Co-author)",
-      "zh": "F5000 中国精品科技期刊顶尖学术论文入选（合作者）"
+      "en": "F5000 Top Academic Paper Selection",
+      "zh": "F5000 顶尖学术论文入选"
     },
     {
       "year": "2024–2025",
@@ -172,5 +173,5 @@
       "zh": "邀请组联合主席——2025 国际工业人工智能会议（IAI 2025）"
     }
   ],
-  "contentVersion": "2026-11-15-v3.9"
+  "contentVersion": "2026-11-15-v4.0"
 }
