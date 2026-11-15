@@ -6,10 +6,10 @@
     "positionZh": "博士后研究员 · 瑞典皇家理工学院 KTH",
     "email": "lei5@kth.se",
     "kthUrl": "https://www.kth.se/profile/lei5",
-    "introEn": "I study how networked agents optimize and learn with limited communication, incomplete gradient information, and stochastic dynamics — and how to give these systems rigorous guarantees.",
-    "introZh": "我研究网络化智能体如何在通信受限、梯度信息不足及随机动力学条件下协同优化与学习，并建立严格的理论保证。",
-    "aboutEn": "I am a postdoctoral researcher in Decision and Control Systems at KTH Royal Institute of Technology, collaborating with Prof. Karl H. Johansson (IEEE Fellow and Member of the Royal Swedish Academy of Engineering Sciences). I received my Ph.D. degree from the University of Victoria in 2025 under the supervision of Prof. Yang Shi (Fellow of the Royal Society of Canada, Canadian Academy of Engineering, Engineering Institute of Canada, IEEE, ASME, and CSME).",
-    "aboutZh": "我目前在瑞典皇家理工学院（KTH）决策与控制系统部门从事博士后研究，与 Karl H. Johansson 教授（IEEE Fellow、瑞典皇家工程科学院院士）合作。我于 2025 年获得加拿大维多利亚大学博士学位，博士导师为施阳（Yang Shi）教授。施阳教授是加拿大皇家学会、加拿大工程院院士，以及加拿大工程学会（EIC）、IEEE、ASME 和 CSME 会士。",
+    "introEn": "My research focuses on distributed optimization and learning over networked systems, with particular emphasis on communication-efficient algorithms, zeroth-order methods, stochastic optimization, and rigorous convergence analysis.",
+    "introZh": "我的研究聚焦网络化系统中的分布式优化与学习，重点关注通信高效算法、零阶优化方法、随机优化及严格的收敛性分析。",
+    "aboutEn": "I am a Postdoctoral Researcher in Decision and Control Systems at KTH Royal Institute of Technology, working with Prof. Karl H. Johansson. I received my Ph.D. from the University of Victoria in 2025 under the supervision of Prof. Yang Shi.",
+    "aboutZh": "我目前在瑞典皇家理工学院（KTH）决策与控制系统部门从事博士后研究，与 Karl H. Johansson 教授合作。我于 2025 年获得加拿大维多利亚大学博士学位，博士导师为 Yang Shi（施阳）教授。",
     "photo": ""
   },
   "metrics": {
@@ -112,5 +112,44 @@
   "visitors": {
     "widgetKey": "xTlcPA5l7A6LmqYwbbBnm7mvuXWdLiFGg3FwwGnWoO8",
     "siteId": ""
-  }
+  },
+  "awards": [
+    {
+      "year": "2025",
+      "en": "Best Paper Award",
+      "zh": "最佳论文奖"
+    },
+    {
+      "year": "2025–2026",
+      "en": "KAW Postdoctoral Fellowship",
+      "zh": "KAW 博士后奖学金"
+    },
+    {
+      "year": "2024–2025",
+      "en": "University of Victoria Doctoral Fellowship",
+      "zh": "维多利亚大学博士奖学金"
+    },
+    {
+      "year": "2024",
+      "en": "Albert Hung Chao Hong Scholarship",
+      "zh": "Albert Hung Chao Hong 奖学金"
+    }
+  ],
+  "service": [
+    {
+      "year": "2025",
+      "en": "Associate Editor, IEEE International Conference on Control and Automation (ICCA 2025)",
+      "zh": "副编辑，IEEE 国际控制与自动化会议（ICCA 2025）"
+    },
+    {
+      "year": "2025",
+      "en": "Session Chair, CSSC 2025",
+      "zh": "分会主席，CSSC 2025"
+    },
+    {
+      "year": "2025",
+      "en": "Session Chair, IAI 2025",
+      "zh": "分会主席，IAI 2025"
+    }
+  ]
 }
